@@ -1,5 +1,5 @@
 name: "Bona Nova"
-designer: "Capitalics, Mateusz Machalski"
+designer: "Capitalics, Mateusz Machalski, Andrzej Heidrich"
 license: "OFL"
 category: "SERIF"
 date_added: "2021-04-01"
