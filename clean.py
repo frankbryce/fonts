@@ -4,7 +4,7 @@ import os
 
 characters = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrztuvwxyz"  # 52 alphanumeric
 
-fontDir = "dataset/train/"  # Directory where .ttf files are stored
+fontDir = "dataset/validate/"  # Directory where .ttf files are stored
 
 def count_glyph(g):
   cnt = 0
